@@ -4,6 +4,8 @@ PulseIp is an innovative decentralized application that transforms your personal
 
 ![image](https://github.com/user-attachments/assets/8193b9f8-ebb5-4365-aaf9-53df273da34b)
 
+[Watch the video](https://youtu.be/mmgY3WIXcMA)
+
 
 ## Overview
 
