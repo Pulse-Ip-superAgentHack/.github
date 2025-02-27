@@ -2,6 +2,9 @@
 
 PulseIp is an innovative decentralized application that transforms your personal fitness data into a valuable digital asset. By leveraging secure AI processing and blockchain technology, it enables personalized AI agents—created using your fitness data—to be tokenized as intellectual property (IP) on Story Protocol. This creates a robust platform for monetization and controlled access by third parties such as pharmaceutical companies and fitness influencers.
 
+![image](https://github.com/user-attachments/assets/8193b9f8-ebb5-4365-aaf9-53df273da34b)
+
+
 ## Overview
 
 Users sign in with their Fitbit devices to securely transmit their fitness data. This data is then **uploaded to the nilliondj Secret Vault**, ensuring that it is safely stored and encrypted. From there, the data is passed to **nillion TEE ML**, where it is processed to create an `agentic character.json`—a personalized AI agent. This agentic character is then tokenized and deployed as IP on Story Protocol, enabling controlled licensing, transparent revenue sharing, and broader ecosystem interoperability.
